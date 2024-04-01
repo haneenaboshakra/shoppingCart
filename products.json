@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Chair 1",
+        "price": 20,
+        "image": "./images/chair-2-svgrepo-com.svg"
+    },
+    {
+        "id": 2,
+        "name": "Chair 2",
+        "price": 25,
+        "image": "./images/chair-2-svgrepo-com.svg"
+    },
+    {
+        "id": 3,
+        "name": "Chair 3",
+        "price": 30,
+        "image": "./images/chair-2-svgrepo-com.svg"
+    },
+    {
+        "id": 4,
+        "name": "Chair 4",
+        "price": 15,
+        "image": "./images/chair-2-svgrepo-com.svg"
+    },
+    {
+        "id": 5,
+        "name": "Chair 5",
+        "price": 20,
+        "image": "./images/chair-2-svgrepo-com.svg"
+    }
+]
